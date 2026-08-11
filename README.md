@@ -639,32 +639,32 @@ Planned improvements include:
 
 # 📸 Screenshots
 
-<img width="3010" height="1300" alt="image" src="https://github.com/user-attachments/assets/7c48d77b-1c1f-4c04-b5ab-1c28a0288238" />
+<img width="3010" height="1300" alt="application" src="https://github.com/user-attachments/assets/63807842-adad-44d1-86a9-03ab8c93af7b" />
 
 
 ### Login
 
-<img width="3010" height="1478" alt="Signup" src="https://github.com/user-attachments/assets/550d1d76-233a-4351-8095-8f8eed08a2d5" />
-<img width="2998" height="1212" alt="login" src="https://github.com/user-attachments/assets/cd3ea4d9-b3e9-4739-9075-2836f3f11f43" />
+<img width="2998" height="1212" alt="login" src="https://github.com/user-attachments/assets/a93e8647-210a-49c3-9e00-327f4b097f01" /><img width="3010" height="1478" alt="Signup" src="https://github.com/user-attachments/assets/afe55c54-d05f-4a41-ae99-dcfe397d1098" />
+
 
 
 ### Dashboard
 
-<img width="2998" height="1438" alt="dashboard" src="https://github.com/user-attachments/assets/675e8f28-ea36-4d17-a92d-d556186633fb" />
+<img width="2998" height="1438" alt="dashboard" src="https://github.com/user-attachments/assets/32c23f2d-be4b-45f9-8867-2750782752de" />
 
 
 ### Profile
 
-<img width="3004" height="1442" alt="profile" src="https://github.com/user-attachments/assets/269c80bf-5620-48db-98b1-c427e4ebf5b5" />
+<img width="3004" height="1442" alt="profile" src="https://github.com/user-attachments/assets/9951eb0a-9f9a-4053-8805-8f2a4ca2660a" />
 
 
 ### Admin Dashboard
 
-<img width="3010" height="1300" alt="image" src="https://github.com/user-attachments/assets/7c48d77b-1c1f-4c04-b5ab-1c28a0288238" />
+<img width="3010" height="1300" alt="application" src="https://github.com/user-attachments/assets/63807842-adad-44d1-86a9-03ab8c93af7b" />
 
 ### User Management
 
-<img width="3010" height="1466" alt="management" src="https://github.com/user-attachments/assets/c21d554c-c6c7-4905-9ff4-7db3a08672fc" />
+<img width="3010" height="1466" alt="management" src="https://github.com/user-attachments/assets/522c4f57-eeba-4317-a209-1b5a5ddf5669" />
 
 ---
 
